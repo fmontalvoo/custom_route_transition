@@ -1,0 +1,18 @@
+name: custom_route_transition_test
+description: Este paquete permite realizar transiciones entre paginas de una forma mucho mas sencilla además de incluir la opción de agregar animaciones a las mismas.
+version: 0.0.3
+homepage: https://fmontalvoo.com
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
